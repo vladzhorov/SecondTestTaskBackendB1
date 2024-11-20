@@ -1,0 +1,6 @@
+@SecondTestTaskB1_HostAddress = http://localhost:5076
+
+GET {{SecondTestTaskB1_HostAddress}}/
+Accept: application/json
+
+###
